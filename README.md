@@ -3,7 +3,7 @@ https://tana.inc/docs/input-api
 
 The Tana Input API v2 adds functionality for saving more types of data and for specifying where data should be saved to.
 
-This action allows the user to specify where in the Tana Workspace a new node should be placed. Additionally, it allows to specify a hierarchy of content nodes; one of the challenges in converting Markdown documents into Tana, because it is a hierarchical node-based system that does not support Markdown at all, is that you lose informtation about the document structure. Additionally, because Tana does not support newlines in any node, the exported drafts frequently look terrible if "squished" into a single Tana node.
+This action allows the user to specify where in the Tana Workspace a new node should be placed. Additionally, it suports specifying a hierarchy of content nodes; one of the challenges in converting Markdown documents into Tana, because it is a hierarchical node-based system that does not support Markdown at all, is that you lose information about the document structure. Additionally, because Tana does not support newlines in any node, the exported drafts frequently [look terrible](https://github.com/mikewaters/drafts-tana-action-v2/blob/master/README.md#single-node-tana-behavior-of-the-existing-v1-action) if "squished" into a single Tana node.
 ## Installing
 `TBD`
 This is not yet published to the Drafts Directory.
