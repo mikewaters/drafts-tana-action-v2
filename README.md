@@ -28,8 +28,8 @@ A markdown list of nodes, with each list item containing comma-separated (identi
 These will be used to drive a Prompt to select the destination node during action execution.
 ex: 
 ```markdown
-		- My favorite node, ghu1LlEXIN1u
-		- My other favorite, ghu1LlEXIN22
+- My favorite node, ghu1LlEXIN1u
+- My other favorite, ghu1LlEXIN22
 ```
 The identifier can be any string the user wants to see in the [selection prompt](https://github.com/mikewaters/drafts-tana-action-v2/blob/master/README.md#screenshots).
 
