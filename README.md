@@ -3,7 +3,7 @@ https://tana.inc/docs/input-api
 
 The Tana Input API v2 adds functionality for saving more types of data and for specifying where data should be saved to.
 
-Relevant to this Drafts Action, clients can specify where in the Tana Workspace a new node should be placed, as well as specify a hierarchy of content nodes.
+This action allows the user to specify where in the Tana Workspace a new node should be placed. Additionally, it allows to specify a hierarchy of content nodes; one of the challenges in converting Markdown documents into Tana, because it is a hierarchical node-based system that does not support Markdown at all, is that you lose informtation about the document structure. Additionally, because Tana does not support newlines in any node, the exported drafts frequently look terrible if "squished" into a single Tana node.
 ## Installing
 `TBD`
 This is not yet published to the Drafts Directory.
@@ -78,6 +78,11 @@ There are some good resources out there for anyone interested:
 ## Screenshots
 ![ScreenShot 2024-03-08 at 14 58 00@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/d08275b2-5918-4322-907d-f986f47a40fd)
 ![ScreenShot 2024-03-08 at 14 57 35@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/8115e342-3159-4e20-a49e-28f5c9918617)
+## Example: using "children" save mode
+### Source draft:
 ![ScreenShot 2024-03-08 at 15 09 00@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/ac42ebb6-123f-4326-8156-5066511eff63)
+### Destination nodes in Tana
 ![ScreenShot 2024-03-08 at 15 08 50@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/27c5d7d2-77c8-4b22-afa8-4bf6ec445763)
+### Single-node Tana (behavior of the existing v1 action)
+![ScreenShot 2024-03-08 at 15 12 15@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/f97e0604-782a-47b6-ad3e-1202d13a2caf)
 
