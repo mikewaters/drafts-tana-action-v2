@@ -78,4 +78,6 @@ There are some good resources out there for anyone interested:
 ## Screenshots
 ![ScreenShot 2024-03-08 at 14 58 00@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/d08275b2-5918-4322-907d-f986f47a40fd)
 ![ScreenShot 2024-03-08 at 14 57 35@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/8115e342-3159-4e20-a49e-28f5c9918617)
+![ScreenShot 2024-03-08 at 15 09 00@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/ac42ebb6-123f-4326-8156-5066511eff63)
+![ScreenShot 2024-03-08 at 15 08 50@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/27c5d7d2-77c8-4b22-afa8-4bf6ec445763)
 
