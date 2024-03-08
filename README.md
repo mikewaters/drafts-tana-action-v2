@@ -72,3 +72,7 @@ There are some good resources out there for anyone interested:
 - [API samples (and a nice wrapper client) from Tana.inc](https://github.com/tanainc/tana-input-api-samples/tree/main)
 - [Tana Community Resource Hub (requires Tana app)](https://tana.pub/yOTwTH6wVoyE/tana-community-resource-hub)
 - [The Drafts issue that propted this work](https://forums.getdrafts.com/t/add-to-tana-runs-but-doesnt-add-to-tana/14907/12)
+## Screenshots
+![ScreenShot 2024-03-08 at 14 58 00@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/d08275b2-5918-4322-907d-f986f47a40fd)
+![ScreenShot 2024-03-08 at 14 57 35@2x](https://github.com/mikewaters/drafts-tana-action-v2/assets/149978/8115e342-3159-4e20-a49e-28f5c9918617)
+
