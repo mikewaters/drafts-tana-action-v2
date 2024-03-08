@@ -31,7 +31,7 @@ ex:
 		- My favorite node, ghu1LlEXIN1u
 		- My other favorite, ghu1LlEXIN22
 ```
-The identifier can be any string the user wants to see in the selection prompt.
+The identifier can be any string the user wants to see in the [selection prompt](https://github.com/mikewaters/drafts-tana-action-v2/blob/master/README.md#screenshots).
 
 At runtime, the selection is optional, and opting to not select a node will send the content to whatever the user has configured as their default.
 
