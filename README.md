@@ -26,7 +26,8 @@ This Action reuses a feature of the Obsidian action group, which uses Drafts Tem
 #### [[tanaDestinationNodes]]
 A markdown list of nodes, with each list item containing comma-separated (identifier, nodeID) pairs. 
 These will be used to drive a Prompt to select the destination node during action execution.
-ex: 
+
+example: 
 ```markdown
 - My favorite node, ghu1LlEXIN1u
 - My other favorite, ghu1LlEXIN22
@@ -38,6 +39,7 @@ At runtime, the selection is optional, and opting to not select a node will send
 In order to acquire these IDs, a user needs to use the Tana app and inspect the nodes they want to use. The [Tana API docs](https://tana.inc/docs/input-api) go over this in detail.
 #### [[tanaDefaultNode]]
 The default node to send to: INBOX, LIBRARY, SCHEMA, or any Tana node's ID.
+
 example:
 ```markdown
 INBOX
