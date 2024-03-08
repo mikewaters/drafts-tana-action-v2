@@ -37,8 +37,8 @@ At runtime, the selection is optional, and opting to not select a node will send
 
 In order to acquire these IDs, a user needs to use the Tana app and inspect the nodes they want to use. The [Tana API docs](https://tana.inc/docs/input-api) go over this in detail.
 #### [[tanaDefaultNode]]
-The default node to send to, such as INBOX or any Tana node.
-ex:
+The default node to send to: INBOX, LIBRARY, SCHEMA, or any Tana node's ID.
+example:
 ```markdown
 INBOX
 ```
