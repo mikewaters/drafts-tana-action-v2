@@ -4,6 +4,9 @@ https://tana.inc/docs/input-api
 The Tana Input API v2 adds functionality for saving more types of data and for specifying where data should be saved to.
 
 Relevant to this Drafts Action, clients can specify where in the Tana Workspace a new node should be placed, as well as specify a hierarchy of content nodes.
+## Installing
+`TBD`
+This is not yet published to the Drafts Directory.
 ## Actions
 ### Add to Tana Node
 When run, the user is presented with a Prompt allowing them to select the node they wish to export the draft into; this node will be the parent of their new node.
